@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>骏怡汇汽车技术服务与营销专业校外实践教学基地</title>
+<!-- TemplateEndEditable -->
+<link href="../styles/reset.css" rel="stylesheet" type="text/css" />
+<link href="../styles/layout.css" rel="stylesheet" type="text/css" />
+<link href="../styles/base.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+ <div id="main">
+   <div id="header"></div>
+     <div id="nav">
+        <ul>
+          <li><a href="../index.html">首页</a></li>
+          <li><a href="../pages/gy-gsjj.html">基地介绍</a></li>
+          <li><a href="../pages/xm-xmfzr.html">建设团队</a></li>
+          <li><a href="../pages/jc-qysjtj.html">建设基础</a></li>
+          <li><a href="../pages/fa-jsmb.html">建设思路和方案</a></li>
+          <li><a href="../pages/sx-sxxmqd.html">实训项目与考核</a></li>  
+          <li><a href="../pages/gl-sjjxgl.html">实践教学管理</a></li>
+          <li><a href="../pages/tj-bztj.html">保障条件</a></li>
+          <li><a href="../pages/xx-cxk.html">学习成果</a></li>
+       </ul>
+     </div>
+     <div class="subContent">
+         <div class="left">
+              <ul>
+                <li><a href="../pages/tj-bztj.html">保障条件</a></li>
+                <li><a href="../pages/tj-zzgl.html">组织管理</a></li>
+              </ul>
+         </div>
+         <div class="right">  
+            <div class="curPosition">
+              <!-- TemplateBeginEditable name="curpos" -->
+			  <!-- TemplateEndEditable -->
+            </div> 
+            <div class="rightcon">       
+  <!-- TemplateBeginEditable name="EditRegion1" -->
+  <!-- TemplateEndEditable -->
+            </div>
+         </div> 
+     </div>  
+       
+   <div class="footer" id="footer">
+Copyright © 2012 广东农工商职业技术学院 机电系<br/> 
+地址：广州市天河区粤垦路198号 邮编：510507<br/>
+技术支持：计算机多媒体技术专业 勤博工作室<br/> 
+   </div>
+   </div>
+
+</body>
+</html>
